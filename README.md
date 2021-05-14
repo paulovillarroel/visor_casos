@@ -5,3 +5,5 @@ Podrás tener una gráfca de la evolución de los casos a lo largo del tiempo y 
 
 Le he agregado la media móvil simple semanal centrada para suavizar la curva. Además, se muestra la media móvil ponderada en la tabla adjunta para cada comuna para analizar de
 mejor forma las tendencias.
+
+Puedes acceder al visor en (este enlace.)[https://paulovillarroel.shinyapps.io/Casos_nuevos_Chile/]

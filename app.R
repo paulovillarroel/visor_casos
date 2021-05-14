@@ -106,6 +106,7 @@ server <- function(input, output, session) {
     
     output$plot_comuna <- renderPlotly({
         
+        # Gráfico en blanco si no hay selección de comuna
         if (is.null(input$comuna)) {
             
             ggplotly(p <- ggplot() +

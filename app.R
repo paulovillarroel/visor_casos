@@ -70,6 +70,7 @@ ui <- fluidPage(theme = shinytheme("cerulean"),
             br(),
             br(),
             p("Elaborado por Paulo Villarroel"),
+            a("Revisa el GitHub de este proyecto", href = "https://github.com/paulovillarroel/visor_casos")
             
             ),
         

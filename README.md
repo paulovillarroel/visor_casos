@@ -6,4 +6,4 @@ En este dashboard podrás encontrar datos sobre los casos nuevos de COVID-19 inf
 
 Le he agregado la media móvil simple semanal centrada para suavizar la curva. Además, se muestra la media móvil ponderada en la tabla adjunta para cada comuna para analizar de mejor forma las tendencias.
 
-Puedes acceder al visor en [este enlace.](https://paulovillarroel.shinyapps.io/Casos_nuevos_Chile/)
+Puedes acceder al visor en [este enlace.](https://paulovillarroel.shinyapps.io/App_shiny_covid/)
